@@ -1,4 +1,4 @@
-# Learn Morse code by means of "training" audio files, with voice cues 
+# Train to learn Morse by "beeps" and voice cues!
 
 I am learning CW and "mind copying" does not yet come easy to me. In order to
 exercise and train, I created a simple bash script (under macOs) to
